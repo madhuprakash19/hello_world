@@ -10,7 +10,9 @@ for i in range(0,n):
         count = count + 1
     else:
         break
-print(count)    
+print(count)
+print('hello')
+
     
     
 
